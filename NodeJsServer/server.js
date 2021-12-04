@@ -1,0 +1,2 @@
+/*Lodas is a Npm module 
+it have various functionality read documentation*/
